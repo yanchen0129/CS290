@@ -1,0 +1,6 @@
+Flip Server URL:
+http://flip3.engr.oregonstate.edu:6775/
+
+GitHub repo URL
+https://github.com/yanchen0129/CS290
+
